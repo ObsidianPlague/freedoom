@@ -53,7 +53,9 @@ doom.gpl
 
 /graphics/text/*.png
 
-/lumps/*_deh.lmp
+/lumps/fdm_deh.lmp
+/lumps/p1_deh.lmp
+/lumps/p2_deh.lmp
 /lumps/*pname.lmp
 /lumps/colormap.lmp
 /lumps/dmxgus.lmp

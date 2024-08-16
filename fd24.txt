@@ -1,6 +1,9 @@
 ; Build configuration for fd24res.wad, our free replacement for the
 ; non-free id24res.wad
 
+[lumps]
+DEHACKED = fd24_deh
+
 [graphics]
 STARMS24
 STAMMO24

@@ -1,0 +1,20 @@
+Patch File for DeHackEd v3.0
+Doom version = 19
+Patch format = 6
+
+# SPDX-License-Identifier: BSD-3-Clause
+
+[STRINGS]
+ID24_GOTFUELCAN = Picked up a jerry can.
+ID24_GOTFUELTANK = Picked up a gas canister.
+GOTCELL = Picked up a jerry can.
+GOTCELLBOX = Picked up a gas canister.
+ID24_GOTCALAMITYBLADE = Got the Alieapon... let the fun begin!
+ID24_GOTINCINERATOR = Got the flamethrower!
+GOTBFG9000 = Got the Alieapon... let the fun begin!
+GOTPLASMA = Got the flamethrower!
+TAG_BFG9000 = alieapon
+TAG_PLASMARIFLE = flamethrower
+# Obituary texts.
+OB_MPPLASMARIFLE = %o was burnt to a crisp from %k's flames.
+OB_MPBFG_MBF = %o was probed with %k's Alieapon!
